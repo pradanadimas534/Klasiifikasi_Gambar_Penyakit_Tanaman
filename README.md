@@ -1,1 +1,0 @@
-# Klasiifikasi_Gambar_Penyakit_Tanaman
